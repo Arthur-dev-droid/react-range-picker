@@ -29,37 +29,37 @@ export const monthsShort = [
 
 export const days = [
   {
-    micro: 'S',
+    micro: 'Su',
     short: 'Sun',
     full: 'Sunday'
   },
   {
-    micro: 'M',
+    micro: 'Mo',
     short: 'Mon',
     full: 'Monday'
   },
   {
-    micro: 'T',
+    micro: 'Tu',
     short: 'Tue',
     full: 'Tuesday'
   },
   {
-    micro: 'W',
+    micro: 'We',
     short: 'Wed',
     full: 'Wednesday'
   },
   {
-    micro: 'T',
+    micro: 'Th',
     short: 'Thu',
     full: 'Thursday'
   },
   {
-    micro: 'F',
+    micro: 'Fr',
     short: 'Fri',
     full: 'Friday'
   },
   {
-    micro: 'S',
+    micro: 'Sa',
     short: 'Sat',
     full: 'Saturday'
   }
